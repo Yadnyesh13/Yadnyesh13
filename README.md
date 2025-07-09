@@ -1,15 +1,73 @@
-## Hi there 👋
+# 👋 Hey there! I'm Yadnyesh Chaudhari
 
-<h1 align="center">Hi 👋, I'm Yadnyesh Chaudhari</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+🎓 A passionate **Full Stack Developer** from India  
+🌱 I love building web applications with **Python (Django)**, **JavaScript**, and clean **UI/UX**  
+📚 Currently learning more about **DevOps**, **Cloud Deployment**, and **Linux**  
+🚀 Always open to freelance projects, collaborations, and job opportunities!
 
-- 🌱 I’m currently learning **Linux,AWS,DevOps**
+---
 
-- 📫 How to reach me **yadnyeshchaudhari875@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Backend & Scripting:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
+
+**Database:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-aws)
+
+---
+
+## 💼 Projects I'm Proud Of
+
+| Project Name | Tech Stack | Description |
+|--------------|------------|-------------|
+| 🎓 **Online Examination System** | Django, HTML, Bootstrap | A web platform to create, manage, and take tests with login/signup |
+| 💰 **Finance Tracker** | Django, Pandas, Chart.js | Personal expense tracker with pie chart visualizations |
+| 🌿 **Nursery Shop Management** | Django, JS, MySQL | Inventory and sales management for a local nursery business |
+| 🔐 **Signature Canvas App** | HTML, CSS, JS, Canvas API | Lets users draw/save/retrieve digital signatures |
+
+---
+
+## 📈 GitHub Stats
+
+![Yadnyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadnyesh13&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh13&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](www.linkedin.com/in/yadnyesh-chaudhari)  
+- 📧 Email: yadnyeshchaudhari875@gmail.com  
+- 🐱 [GitHub](https://github.com/Yadnyesh13)
+
+---
+
+## 🎯 Goals for 2025
+
+- [ ] 🚀 Deploy 3 production-ready Django projects on AWS
+- [ ] 🛠️ Contribute to open-source
+- [ ] 📈 Get hired as a Python Full Stack Developer
+- [ ] 🧠 Learn Docker, Kubernetes & CI/CD tools
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House 😄
+
