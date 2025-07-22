@@ -49,6 +49,11 @@
 ![Yadnyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadnyesh13&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh13&layout=compact&theme=tokyonight)
+### 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 
 ---
 
