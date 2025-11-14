@@ -55,7 +55,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/yadnyesh-chaudhari)  
+- 💼 [LinkedIn]www.linkedin.com/in/yadnyesh-chaudhari  
 - 📧 Email: yadnyeshchaudhari875@gmail.com  
 - 🐱 [GitHub](https://github.com/Yadnyesh13)
 
